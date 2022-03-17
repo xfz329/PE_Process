@@ -70,7 +70,7 @@ class Logger:
 
     def get_log(self):
         return self.__logger
-    
+
 if __name__ == "__main__":
     t=Logger('pe')
     t.get_log().debug("test")
