@@ -140,3 +140,6 @@ dmypy.json
 
 # SPSS
 /SPSS
+
+# PDF files
+*.pdf
